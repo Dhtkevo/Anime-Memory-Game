@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div className=' pb-6 flex items-center justify-between'>
-        <h1 className='text-6xl font-bold font-mono p-2'>Anime Memory Game</h1>
+        <h1 className='text-6xl italic font-bold font-mono p-2'>Anime Memory Game</h1>
         <Scores />
       </div>
       <div className=" gap-x-10 gap-y-10 card-container h-full grid grid-cols-4 grid-rows-2">
